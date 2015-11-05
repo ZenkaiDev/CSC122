@@ -1,0 +1,14 @@
+Logan Lopez
+CSC 122
+Assignment 5
+
+1. A function is a segment of code that can be reused within your code.
+2. If you have a repetitive operation that would require you to write the same code several times, you can instead write a function that will execute that code when called.
+3. A local variable is a variables that exists in a function, and can only be accessed from within that function.
+4. The "scope" of a variable is the space in the code that it can be accessed from.
+5. The scope of a global variable spans the current running script.
+6. A library function is a function that can be called from python's libraries, i.e. (os, sys, random).
+7. They are called black boxes because you don't know exactly how they work, but they do the same thing everytime.
+8. It signifies the end of the function and can also output specific information depending on whether you want it to do so.
+9. A boolean function is a function that returns true or false.
+10. The random number seed is what is used to generate the "pseudo-random" numbers.  
