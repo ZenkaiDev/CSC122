@@ -5,12 +5,12 @@ Assignment 6
 1. A file is something that stores information, regardless of whatever format that information is stored.
 2. Open, read/write, and then close.
 3. The existing file is overwritten.
-4. Anything written to the file is appended or added onto the existing file.
-5. 
+4. Anything written to the file is appended (added) onto the existing file.
+5. The two main types of files are sequential and random access files. Sequential files are read from begginning to end, and random access files can be read by going to the specific location in the file that contains the data.
 6.	file = open('mark.txt', 'r')
 	contents = file.read()
 	file.close()
 7. f.readline()
-8. 
+8. A record is something in a file that acts like a container for the data stored in the file.
 9. An exception is when the python interpreter hits an error and has to stop, this can be anything ranging from dividing by zero to trying to use a variable that doesn't exist.
 10. Python uses the try and catch keywords to handle thrown exceptions. If an exception is thrown inside of a try block, it moves to the corresponding except block where you can handle the error how you want.
