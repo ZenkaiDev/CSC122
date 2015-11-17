@@ -1,0 +1,16 @@
+Logan Lopez
+CSC 122
+Assignment 6
+
+1. A file is something that stores information, regardless of whatever format that information is stored.
+2. Open, read/write, and then close.
+3. The existing file is overwritten.
+4. Anything written to the file is appended or added onto the existing file.
+5. 
+6.	file = open('mark.txt', 'r')
+	contents = file.read()
+	file.close()
+7. f.readline()
+8. 
+9. An exception is when the python interpreter hits an error and has to stop, this can be anything ranging from dividing by zero to trying to use a variable that doesn't exist.
+10. Python uses the try and catch keywords to handle thrown exceptions. If an exception is thrown inside of a try block, it moves to the corresponding except block where you can handle the error how you want.
