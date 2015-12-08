@@ -35,7 +35,7 @@ output = ""
 
 # Loop through list and append value to output
 for i in list:
-    output += str(i) + ""
+    output += str(i) + " "
     
 # Output list
 print(output)

@@ -1,0 +1,25 @@
+Logan Lopez
+CSC 122
+Assignment 7
+
+1. It means that once a list is created it can be changed while the program is running.
+2. c = a + b
+3. y = x[2:4]
+4. listLength = len(x)
+5. y = reverse(x)
+6. remove(item) removes the first occurrence of item in the list. Del removes the item at the index specified.
+7. 
+    try:
+        index = x.index(3)
+        print "Yes"
+    except ValueError:
+        print "No"
+8. 
+    min = min(x)
+    max = max(x)
+    total = 0
+    for value in x:
+        total += value
+    avg = value / len(x)
+9. The main difference is that tuples are immutable or they cannot be changed once created.
+10. u = list(t)  

@@ -1,10 +1,10 @@
 Logan Lopez
 CSC 122
-Assignment 5
+Assignment 7
 
-1. A function is a segment of code that can be reused within your code.
-2. If you have a repetitive operation that would require you to write the same code several times, you can instead write a function that will execute that code when called.
-3. A local variable is a variables that exists in a function, and can only be accessed from within that function.
+1. It means that once a list is created it can be changed while the program is running.
+2. c = a + b
+3. y = x[2:4]
 4. The "scope" of a variable is the space in the code that it can be accessed from.
 5. The scope of a global variable spans the current running script.
 6. A library function is a function that can be called from python's libraries, i.e. (os, sys, random).
